@@ -3,9 +3,12 @@ Modulo Magisk que añade funciones de la gama (S) premium de Samsung al Samsung 
 
 Este modulo contiene:
 
-Mejoras en la camara (Procesado del S23FE)
-Galaxy AI / Inteligencia artificial de samsung (Con todos sus complementos "OfflineLanguajeCore, WallpaperAI, AiCore,")
-Agregar usuarios
+- Mejoras en la camara (Procesado del S23FE)
+
+- Galaxy AI / Inteligencia artificial de samsung (Con todos sus complementos "OfflineLanguajeCore, WallpaperAI, AiCore,")
+
+- Agregar usuarios
+
 Cambios en los ajustes
 - Marcara Wifi 6 en las redes de Wifi 6
 - Mobile Hostpot = Compatibilidad (2.4GHz) / Rendimiento (5GHz) / Ambas a la vez (2.4GHz y 5GHz) | Admision estandar Wifi 6 | Cambios en la configuracion de Mobile Hostpot
