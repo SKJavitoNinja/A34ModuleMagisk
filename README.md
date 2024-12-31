@@ -7,9 +7,9 @@ Este modulo contiene:
 
 - Galaxy AI / Inteligencia artificial de samsung (Con todos sus complementos "OfflineLanguajeCore, WallpaperAI, AiCore,")
 
-- Agregar usuarios
-
 Cambios en los ajustes
+
+- Agregar usuarios
 - Marcara Wifi 6 en las redes de Wifi 6
 - Mobile Hostpot = Compatibilidad (2.4GHz) / Rendimiento (5GHz) / Ambas a la vez (2.4GHz y 5GHz) | Admision estandar Wifi 6 | Cambios en la configuracion de Mobile Hostpot
 - Acerca del telefono / Acerca del dispositivo | Tendria una nueva interfaz
