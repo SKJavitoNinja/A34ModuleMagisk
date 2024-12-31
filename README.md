@@ -5,7 +5,9 @@ Este modulo contiene:
 
 - 📷Mejoras en la camara (Procesado del S23FE)📷
 
-- ✨Galaxy AI / Inteligencia artificial de samsung (Con todos sus complementos "OfflineLanguajeCore, WallpaperAI, AiCore,") ✨
+- ✨Galaxy AI = Inteligencia artificial de Samsung (Con todos sus complementos "OfflineLanguajeCore, WallpaperAI, AiCore,") ✨
+
+- 🕵️S24 Ultra Spoofer🕵️ = Cambia el modelo de su a34 por el s24 Ultra para descargar las actualizaciones de los complementos anteriormente mencionados, ademas de poder descargar aplicaciones adicionales de la  🛍️ Galaxy Store 🛍️ 🕵
 
 ⚙️Cambios en los ajustes⚙️
 
@@ -15,3 +17,4 @@ Este modulo contiene:
 - ❗Acerca del telefono / Acerca del dispositivo | Tendria una nueva interfaz ❗
 - Informacion de Bateria / Ciclos de carga / Fecha de fabricacion / Estado de la bateria "Nivel de salud" / Entre otros mas
 - 📱AOD/ Always On Display📱
+- Compatibilidad con ✨🪛Camera Assistant🪛✨
