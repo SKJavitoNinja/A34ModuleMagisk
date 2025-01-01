@@ -7,6 +7,8 @@ Modulo Magisk que añade funciones de la gama (S) premium de Samsung al Samsung 
 
 - 🕵️S24 Ultra Spoofer🕵️ = Cambia el modelo de su a34 por el S24 Ultra para descargar las actualizaciones de los complementos anteriormente mencionados, ademas de poder descargar aplicaciones adicionales de la   🛍️ Galaxy Store 🛍️ 
 
+- Boot de la serie S24
+
 ⚙️Cambios en los ajustes⚙️
 
 - 👤Agregar usuarios👤
