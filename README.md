@@ -1,9 +1,9 @@
 # A34ModuleMagisk
 Modulo Magisk que añade funciones de la gama (S) premium de Samsung al Samsung Galaxy a345G /A346x
 
-Este modulo contiene:
+❗Este modulo contiene❗
 
-- ✨Galaxy AI = Inteligencia artificial de Samsung (Con todos sus complementos "OfflineLanguajeCore, WallpaperAI, AiCore,") ✨
+- ✨Galaxy AI = Inteligencia artificial de Samsung (Con todos sus complementos "OfflineLanguajeCore, WallpaperAI, AiCore, Interpreter") ✨
 
 - 🕵️S24 Ultra Spoofer🕵️ = Cambia el modelo de su a34 por el s24 Ultra para descargar las actualizaciones de los complementos anteriormente mencionados, ademas de poder descargar aplicaciones adicionales de la  🛍️ Galaxy Store 🛍️ 
 
@@ -30,3 +30,11 @@ Este modulo contiene:
 - ⚙️Opciones avanzadas de imagen = Imagenes de alta eficencia y Copias Raw⚙️
 - ⚙️FPS Automaticos⚙️
 - ⌚Tomar Fotos a distancia desde su reloj Galaxy Watch⌚
+
+⚠️Imporante⚠️
+- Yo no me hare responsable de una instalacion que salga mal o que su dispositivo deje de funcionar, de todos modos ustedes son concientes de sus acciones.
+- Ademas este modulo ha sido comprobado varias veces para que funcione correctamente en su dispositivo.
+- Se necesita Root
+- App Magisk
+- Version One Ui 6.1 "Para que este modulo funcione correctamente"
+- Un Samsung Galaxy A34 5G Claramente
