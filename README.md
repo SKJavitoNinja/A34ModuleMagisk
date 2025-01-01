@@ -5,7 +5,7 @@ Modulo Magisk que añade funciones de la gama (S) premium de Samsung al Samsung 
 
 - ✨Galaxy AI = Inteligencia artificial de Samsung (Con todos sus complementos "OfflineLanguajeCore, WallpaperAI, AiCore, Interpreter") ✨
 
-- 🕵️S24 Ultra Spoofer🕵️ = Cambia el modelo de su a34 por el s24 Ultra para descargar las actualizaciones de los complementos anteriormente mencionados, ademas de poder descargar aplicaciones adicionales de la  🛍️ Galaxy Store 🛍️ 
+- 🕵️S24 Ultra Spoofer🕵️ = Cambia el modelo de su a34 por el s24 Ultra para descargar las actualizaciones de los complementos anteriormente mencionados, ademas de poder descargar aplicaciones adicionales de la   🛍️ Galaxy Store 🛍️ 
 
 ⚙️Cambios en los ajustes⚙️
 
