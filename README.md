@@ -18,7 +18,6 @@ Modulo Magisk que añade funciones de la gama (S) premium de Samsung al Samsung 
 - Informacion de Bateria / Ciclos de carga / Fecha de fabricacion / Estado de la bateria "Nivel de salud" / Entre otros mas
 - 📱AOD/ Always On Display📱 (Mejoras, animacion Fluida)
 - 🖇️ Compartir Cámara 🖇️
-- Resolucion de pantalla = HD+ / FHD+ / QHD+
 
 📷Cambios de Cámara📷
 
