@@ -1,7 +1,7 @@
 # A34ModuleMagisk
-![build-img_M1](https://github.com/user-attachments/assets/ec1db627-6d26-43a6-9da7-51f627932d9a)
-Modulo Magisk que añade funciones de la gama (S) prem
-ium de Samsung al Samsung Galaxy a345G /A346x
+![Samsung_Galaxy-A54-and-A34-5G_Launch-Press-Release](https://github.com/user-attachments/assets/796d6de3-525f-4514-b84a-09f8769584aa)
+
+Modulo Magisk que añade funciones de la gama (S) premium de Samsung al Samsung Galaxy a345G /A346x
 
 ❗Este modulo contiene❗
 
