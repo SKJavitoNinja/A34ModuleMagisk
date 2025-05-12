@@ -34,7 +34,7 @@ Modulo Magisk que añade funciones de la gama (S) premium de Samsung al Samsung 
 - Ademas este modulo ha sido comprobado varias veces para que funcione correctamente en su dispositivo.
 - Se necesita Root
 - App Magisk
-- Version One Ui 6.1 "Para que este modulo funcione correctamente"
+- Version One Ui 7.0 "Para que este modulo funcione correctamente"
 - Un Samsung Galaxy A34 5G Claramente
 
 ⚠️Pronto lanzare una Beta para que puedan probarla⚠️
