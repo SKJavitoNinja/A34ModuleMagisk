@@ -5,19 +5,11 @@ Modulo Magisk que añade funciones de la gama (S) premium de Samsung al Samsung 
 
 ❗Este modulo contiene❗
 
-- ✨Galaxy AI = Inteligencia artificial de Samsung (Con todos sus complementos "OfflineLanguajeCore, WallpaperAI, AiCore, Interpreter y mas") ✨
-
-- 🕵️S24 Ultra Spoofer🕵️ = Cambia el modelo de su a34 por el S24 Ultra para descargar las actualizaciones de los complementos anteriormente mencionados, ademas de poder descargar aplicaciones adicionales de la   🛍️ Galaxy Store 🛍️ 
+- ✨Galaxy AI ONE UI 7.0 = Inteligencia artificial de Samsung (Con todos sus complementos "OfflineLanguajeCore, WallpaperAI, AiCore, Interpreter y mas") ✨
 
 - Boot de la serie S24
 
 ⚙️Cambios en los ajustes⚙️
-
-- 👤Agregar usuarios👤
-- 🛜Marcara Wifi 6 en las redes de Wifi 6🛜
-- 📶Mobile Hostpot = Compatibilidad (2.4GHz) / Rendimiento (5GHz) / Ambas a la vez (2.4GHz y 5GHz) | Admision estandar Wifi 6 | Cambios en la configuracion de Mobile Hostpot📶
-- ❗Acerca del telefono / Acerca del dispositivo | Tendria una nueva interfaz ❗
-- Informacion de Bateria / Ciclos de carga / Fecha de fabricacion / Estado de la bateria "Nivel de salud" / Entre otros mas
 - 📱AOD/ Always On Display📱 (Mejoras, animacion Fluida)
 - 🖇️ Compartir Cámara 🖇️
 
@@ -27,11 +19,13 @@ Modulo Magisk que añade funciones de la gama (S) premium de Samsung al Samsung 
 - 🖼️Mejoras en las fotos (Procesamiento de ellas, con el procesamiento de imagenes del "S23FE")🖼️
 - Video Retrato ⚠️(No funciona, por determinar)⚠️
 - Expert Raw ⚠️(No funciona, por determinar)⚠️
-- 📷Grabar a 4K 30FPS en HDR10+ con el lente principal y Ultra Gran angular📷
+- Grabar en LOG (Funciona)
+- 📷Grabar a 4K 30FPS en HDR10+ con el lente principal y Ultra Gran angular📷 (Por Revisar)
 - Grabacion Doble ⚠️(No funciona, por determinar)⚠️
 - 🎞️Graduacion de colores + Nivel del audio en el Video Profesional🎞️
 - Hiperlapso = Poder grabar en ✨300x para las estrellas y la funcion de rastro de estrellas
 - ⚙️Opciones avanzadas de imagen = Imagenes de alta eficencia y Copias Raw⚙️
+- Privacidad de camara
 - ⚙️FPS Automaticos⚙️
 - ⌚Tomar Fotos a distancia desde su reloj Galaxy Watch⌚
 
